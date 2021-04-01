@@ -119,7 +119,7 @@
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="#4C0303">
+            android:background="#4F5254">
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
